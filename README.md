@@ -12,14 +12,14 @@ The google colab file link  is provided below, you can check the implementation 
 ### RESULTS
 
 #### Sign Language Alphabets Detection and Recognition  
-![](./figure1.png)
+![](./figure_1.png)
 
 #### Sign Language Alphabets Detection and Recognition  
-![](./figure2.png)
+![](./figure_2.png)
 
 #### Sign Language Alphabets Detection and Recognition  
 
-![](./figure3.png)
+![](./figure_3.png)
 
 ### Watch the Complete Step by Step Explanation
 
