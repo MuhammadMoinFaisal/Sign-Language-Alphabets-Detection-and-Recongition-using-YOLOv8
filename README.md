@@ -9,6 +9,10 @@ The google colab file link  is provided below, you can check the implementation 
 
 
 
+## YouTube Video Tutorial Link
+
+[`YouTube Link`](https://www.youtube.com/watch?v=-UoSr9Z_Bg0)
+
 ### RESULTS
 
 #### Sign Language Alphabets Detection and Recognition  
